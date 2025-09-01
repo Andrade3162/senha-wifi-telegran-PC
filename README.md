@@ -87,6 +87,21 @@ Se configurado corretamente, os arquivos serão enviados para o chat especificad
 * Use **somente em computadores que você possui ou tem autorização**.
 * Não compartilhe os arquivos gerados sem segurança.
 
+
+⚠️ Aviso de Uso
+
+Este script exporta senhas Wi-Fi em texto claro.
+
+Use somente em computadores que você possui ou tem autorização.
+
+Não compartilhe os arquivos gerados sem segurança.
+
+📜 Aviso Legal
+
+Este projeto é fornecido apenas para fins educacionais e administrativos.
+O autor não se responsabiliza por qualquer uso incorreto, ilegal ou malicioso destes scripts.
+Ao utilizar este código, você concorda em assumir total responsabilidade pelas suas ações.
+
 ✍️ **Autor:** \[ANDRADE3162]
 📅 **Versão:** 1.0
 
